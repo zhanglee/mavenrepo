@@ -28,3 +28,7 @@ logs
 *.rdb
 target/
 .DS_Store
+repository/*
+!repository/com
+repository/com/*
+!repository/com/zcode
