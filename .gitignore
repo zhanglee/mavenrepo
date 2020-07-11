@@ -32,3 +32,4 @@ repository/*
 !repository/com
 repository/com/*
 !repository/com/zcode
+!repository/com/fj

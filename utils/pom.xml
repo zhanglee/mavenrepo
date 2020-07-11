@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zcode</groupId>
-    <artifactId>utils</artifactId>
+    <artifactId>zcoed-utils</artifactId>
     <version>1.0.0</version>
 
     <properties>
         <java.version>1.8</java.version>
         <spring.framework.version>5.1.7.RELEASE</spring.framework.version>
+        <repository.path>../repository</repository.path>
     </properties>
 
 
@@ -43,7 +44,7 @@
     <distributionManagement>
         <repository>
             <id>local-maven</id>
-            <url>file:${project.basedir}/repository</url>
+            <url>file:${repository.path}</url>
         </repository>
     </distributionManagement>
 

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 11 20:29:13 CST 2020
+fj-log-spring-boot-starter-1.0.0.RELEASE.jar>=
+fj-log-spring-boot-starter-1.0.0.RELEASE-sources.jar>=
+fj-log-spring-boot-starter-1.0.0.RELEASE.pom>=
